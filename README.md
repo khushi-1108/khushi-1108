@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Khushi. 
 
-👩‍💻 I am a Computer Science student 
+👩‍💻 I am a Computer Science student /n
 🌱 I’m currently learning Kotlin 
 😄 Pronouns: She/her
 ⚡ Fun fact: I like Physics
